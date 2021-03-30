@@ -13,5 +13,4 @@ Collections of all links, tutorials, tools and help tips
 
 ### Kafka Support/Maintenance and Q&A
 + Changing serialization of existing topic : `https://www.confluent.io/blog/spring-kafka-can-your-kafka-consumers-handle-a-poison-pill/`
-+ How to write kafka junit (using junit + embedded kafka integration) : https://codenotfound.com/spring-kafka-embedded-unit-test-example.html
 
